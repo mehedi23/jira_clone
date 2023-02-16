@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="777" fill="none">
+  <path fill="#F4F5F7" d="M0 0h240v777H0z"/>
+  <g clip-path="url(#a)">
+    <path fill="#fff" fill-opacity=".01" d="M26 88h24v24H26z"/>
+    <rect width="32" height="32" x="22" y="84" fill="#091E42" fill-opacity=".08" rx="3"/>
+    <rect width="71" height="6" x="66" y="97" fill="#091E42" fill-opacity=".13" rx="3"/>
+    <path fill="#fff" fill-opacity=".01" d="M26 132h24v24H26z"/>
+    <rect width="32" height="32" x="22" y="128" fill="#091E42" fill-opacity=".08" rx="3"/>
+    <rect width="71" height="6" x="66" y="141" fill="#091E42" fill-opacity=".13" rx="3"/>
+    <path fill="#fff" fill-opacity=".01" d="M26 176h24v24H26z"/>
+    <rect width="32" height="32" x="22" y="172" fill="#091E42" fill-opacity=".08" rx="3"/>
+    <rect width="71" height="6" x="66" y="185" fill="#091E42" fill-opacity=".13" rx="3"/>
+    <rect width="208" height="40" x="16" y="212" fill="#091E42" fill-opacity=".04" rx="3"/>
+    <path fill="#fff" fill-opacity=".01" d="M26 220h24v24H26z"/>
+    <rect width="32" height="32" x="22" y="216" fill="#091E42" fill-opacity=".08" rx="3"/>
+    <rect width="71" height="6" x="66" y="229" fill="#091E42" fill-opacity=".13" rx="3"/>
+  </g>
+  <rect width="40" height="40" x="18" y="24" fill="#DEEBFF" rx="3"/>
+  <rect width="97" height="12" x="66" y="29" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="141" height="6" x="66" y="53" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M16 80h208v172H16z"/>
+    </clipPath>
+  </defs>
+</svg>

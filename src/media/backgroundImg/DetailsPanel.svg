@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328" height="597" fill="none">
+  <rect width="99" height="32" fill="#B3D4FF" rx="3"/>
+  <rect width="59" height="6" x="8" y="13" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <path fill="#fff" fill-opacity=".01" d="M70 4h24v24H70z"/>
+  <path fill="#091E42" fill-opacity=".25" fill-rule="evenodd" d="M78.292 14.293a1.009 1.009 0 0 0 0 1.419l2.939 2.965c.218.215.5.322.779.322s.556-.107.769-.322l2.93-2.955a1.01 1.01 0 0 0-.322-1.637.987.987 0 0 0-1.084.218l-2.298 2.317-2.307-2.327a.99.99 0 0 0-1.406 0Z" clip-rule="evenodd"/>
+  <path stroke="#091E42" stroke-opacity=".13" stroke-width="2" d="M1 52a7 7 0 0 1 7-7h312a7 7 0 0 1 7 7v544H1V52Z"/>
+  <rect width="253" height="6" x="24" y="77" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <path fill="#fff" fill-opacity=".01" d="M280 68h24v24h-24z"/>
+  <path fill="#091E42" fill-opacity=".25" fill-rule="evenodd" d="M288.292 78.293a1.009 1.009 0 0 0 0 1.419l2.939 2.965c.218.215.5.322.779.322s.556-.107.769-.322l2.93-2.955a1.008 1.008 0 0 0-.322-1.637.987.987 0 0 0-1.084.218l-2.298 2.317-2.307-2.327a.997.997 0 0 0-.703-.293.99.99 0 0 0-.703.293Z" clip-rule="evenodd"/>
+  <rect width="89.122" height="6" x="24" y="121" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="54" height="6" x="24" y="159" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="114" height="6" x="24" y="197" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="52" height="20" x="178" y="190" fill="#EBECF0" rx="3"/>
+  <rect width="44" height="6" x="182" y="197" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="70" height="6" x="24" y="235" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="89.122" height="6" x="24" y="273" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="89.122" height="6" x="24" y="311" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="89.122" height="6" x="24" y="349" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="89.122" height="6" x="24" y="387" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="89.122" height="6" x="24" y="425" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="89.122" height="6" x="24" y="463" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="66" height="6" x="210" y="121" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="71" height="6" x="178" y="159" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="126" height="6" x="178" y="273" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="126" height="6" x="178" y="311" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="126" height="6" x="178" y="349" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="126" height="6" x="178" y="387" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="126" height="6" x="178" y="425" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="126" height="6" x="178" y="463" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <rect width="71" height="6" x="202" y="235" fill="#091E42" fill-opacity=".13" rx="3"/>
+  <g clip-path="url(#a)">
+    <path fill="#B2D4FF" d="M193.963 237.998a7.964 7.964 0 1 0-15.927.001 7.964 7.964 0 0 0 15.927-.001Z"/>
+    <path fill="#2684FF" d="M189.41 244.235a2.283 2.283 0 0 1-1.416-2.107 2.225 2.225 0 0 1 .785-1.716c3.14-2.637 1.192-7.743-2.861-7.661-3.97.068-5.777 5.079-2.696 7.661.503.427.79 1.056.785 1.716a2.28 2.28 0 0 1-1.416 2.107c-.247.102-.489.216-.728.337-.067.034-.129.074-.195.11a7.93 7.93 0 0 0 4.333 1.283 7.92 7.92 0 0 0 4.336-1.285 9.53 9.53 0 0 0-.926-.445h-.001Z"/>
+  </g>
+  <path fill="#fff" fill-opacity=".01" d="M178 112h24v24h-24z"/>
+  <path fill="#0065FF" d="m190.522 131.853.103-.072 5-4a1 1 0 0 0-1.147-1.634l-.103.072L190 129.72l-4.375-3.501a1.001 1.001 0 0 0-1.321.063l-.085.093c-.318.398-.283.965.063 1.321l.093.085 5 4a1 1 0 0 0 1.147.072Z"/>
+  <path fill="#2684FF" d="m190.522 126.853.103-.072 5-4a1 1 0 0 0-1.147-1.634l-.103.072L190 124.72l-4.375-3.501a1.001 1.001 0 0 0-1.321.063l-.085.093c-.318.398-.283.965.063 1.321l.093.085 5 4a1 1 0 0 0 1.147.072Z"/>
+  <path fill="#4C9AFF" d="m190.522 121.853.103-.072 5-4a1 1 0 0 0-1.147-1.634l-.103.072L190 119.72l-4.375-3.501a1.001 1.001 0 0 0-1.321.063l-.085.093c-.318.398-.283.965.063 1.321l.093.085 5 4a1 1 0 0 0 1.147.072Z"/>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M178 230h16v16h-16z"/>
+    </clipPath>
+  </defs>
+</svg>
